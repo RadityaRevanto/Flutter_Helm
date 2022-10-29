@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896235993621",
+    "project_id": "signln-example-b9a54",
+    "storage_bucket": "signln-example-b9a54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896235993621:android:8ef5477f805371cf2e6c1c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_helm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896235993621-1dtd48sf00p8ejsv9e3fd51fdr1201s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZz7PxRtb9bTnHvDHCk015G9MfnHgEm2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896235993621-1dtd48sf00p8ejsv9e3fd51fdr1201s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
